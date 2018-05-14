@@ -48,7 +48,7 @@
     "finalhandler": "0.2.0",
     "form-data": "0.1.4",
     "ncp": "0.4.2",
-    "npm": "^1.4.6",
+    "npm": "^2.0.1",
     "open": "0.0.5",
     "optimist": "0.6.0",
     "prompt": "0.2.12",
